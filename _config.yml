@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Lily FitzGibbon / Personal website"
 title_separator          : "-"
 name                     : &name "Lily FitzGibbon"
-description              : &description "Postdoc in cognition and development"
+description              : &description "Postdoctoral researcher at the University of Reading"
 url                      : https://LilyFG.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LilyFG/LilyFG.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lily FitzGibbon"
-  avatar           : "LFitzGibbon_portrait.jpg"
+  avatar           : "profile.png"
   bio              : "Postdoctoral researcher in the Motivation Science Lab at the University of Reading"
   location         : "Reading, UK"
-  employer         :
+  employer         : "Motivation Science Lab, University of Reading"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=7BZdCqQAAAAJ&hl=en"
-  email            :
+  email            : "l.t.fitzgibbon@reading.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
